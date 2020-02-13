@@ -1,4 +1,3 @@
-# Algorithm
 # 记录算法学习历程
 
 ## 与github的同步
